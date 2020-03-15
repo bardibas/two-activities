@@ -1,2 +1,2 @@
 ![](part1.png)
-![](part 2.png)
+![](part2.png)
