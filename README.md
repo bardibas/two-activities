@@ -1,1 +1,2 @@
-![(part1.png,ss2.png)]
+![]("part1.png")
+![]("part2.png")
